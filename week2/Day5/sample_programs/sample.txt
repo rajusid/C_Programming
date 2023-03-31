@@ -1,3 +1,0 @@
-Phytec Embedded
-C programming
-Rugged Board
